@@ -33,5 +33,15 @@ O responsável pelo acompanhamento e validação do projeto dentro do Instituto 
 - Treinamento dos usuários.
 - Documentação final e encerramento do projeto.
 
+## Cronograma
+1 - Levantamento de requisitos - (Data a definir)
+2 - Definição da arquitetura - (Data a definir)
+3 - Desenvolvimento do banco de dados - (Data a definir)
+4 - Implementação do backend - (Data a definir)
+5 - Desenvolvimento do aplicativo - (Data a definir)
+6 - Testes e ajustes - (Data a definir)
+7 - Homologação - (Data a definir)
+8 - Treinamento e implantação - (Data a definir)
+9 - Documentação e finalização - (Data a definir)
 ---
 *Projeto acadêmico para a disciplina de Programação para Dispositivos Móveis em Android.*
