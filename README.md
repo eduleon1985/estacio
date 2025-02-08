@@ -22,8 +22,16 @@ O responsável pelo acompanhamento e validação do projeto dentro do Instituto 
 - Instagram: https://www.instagram.com/insttoffoli/
 - WhatsApp: https://api.whatsapp.com/send/?phone=19991211467&text&type=phone_number&app_absent=0
 
-## Última atualização deste documento:
-08/fev/2025 (v1.0)
+## Passos para Concretização do Trabalho
+- Levantamento de requisitos com o Instituto Toffoli.
+- Definição da arquitetura do sistema.
+- Desenvolvimento do banco de dados.
+- Implementação do backend.
+- Desenvolvimento do aplicativo móvel.
+- Testes internos e ajustes.
+- Implantação e homologação com o Instituto Toffoli.
+- Treinamento dos usuários.
+- Documentação final e encerramento do projeto.
 
 ---
 *Projeto acadêmico para a disciplina de Programação para Dispositivos Móveis em Android.*
